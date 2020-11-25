@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "demo-cart-auth"
+  "defaultProject": "demo-cart-auth",
+  "cli": {
+    "analytics": false
+  }
 }
